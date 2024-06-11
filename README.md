@@ -1,1 +1,1 @@
-# numSys_converter
+Convert numeral systems for digital and everyday calculations.
